@@ -9,11 +9,7 @@
 HNG12 Task 0
 
 A Get request API, that returns the below response in json format with status code 200.
-{
-  "email": "your-email@example.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "<https://github.com/yourusername/your-repo>"
-}
+
 
 ## Project setup
 
@@ -26,10 +22,20 @@ $ npm install
 ```bash
 # development
 $ npm run start
+```
+## API DOCUMENTATION
 
-# watch mode
-$ npm run start:dev
 
-# production mode
-$ npm run start:prod
+## URL
+```bash
+ https://hngi12-task0.onrender.com/
+```
+
+## Response Format:
+```bash
+ {
+  "email": "your-email@example.com",
+  "current_datetime": "2025-01-30T09:30:00Z",
+  "github_url": "<https://github.com/yourusername/your-repo>"
+}
 ```
