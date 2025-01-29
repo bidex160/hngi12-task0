@@ -14,6 +14,8 @@ A Get request API, that returns the below response in json format with status co
 ## Project setup
 
 ```bash
+$ git clone https://github.com/bidex160/hngi12-task0.git
+
 $ npm install
 ```
 
@@ -22,6 +24,8 @@ $ npm install
 ```bash
 # development
 $ npm run start
+
+ http://localhost: 3000
 ```
 ## API DOCUMENTATION
 
