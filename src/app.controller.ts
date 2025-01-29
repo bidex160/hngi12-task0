@@ -13,9 +13,6 @@ export class AppController {
       current_datetime: new Date().toISOString(),
       github_url: 'https://github.com/bidex160/hngi12-task0',
     };
-    return res.status(200).json({
-      status: true,
-      data: data,
-    });
+    return res.status(200).json(data);
   }
 }
