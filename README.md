@@ -45,9 +45,13 @@ $ npm run start
 ```
 
 ##  Links
-https://hng.tech/hire/python-developers
-https://hng.tech/hire/csharp-developers
-https://hng.tech/hire/golang-developers
-https://hng.tech/hire/php-developers
-https://hng.tech/hire/java-developers
-https://hng.tech/hire/nodejs-developers
+
+[Hire Python Developers](https://hng.tech/hire/python-developers)
+[Hire CSharp Developers](https://hng.tech/hire/csharp-developers)
+[Hire Go Developers](https://hng.tech/hire/golang-developers)
+[Hire PHP Developers](https://hng.tech/hire/php-developers)
+[Hire Java Developers](https://hng.tech/hire/java-developers)
+[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
+
+
+
